@@ -11,4 +11,4 @@
 
 ### 🛡 Specialized Solutions
 * **[RateShield](https://github.com/Pamf1973/pro-rateshield)** – High-integrity logic designed for [Industry, e.g., Fintech/Insurance].
-* **[LinkedIn UX/UI Feature](https://github.com/Pamf1973/ux-linkedin-redesign)** – A targeted design improvement focused on user retention and flow.
+* **[LinkedIn UX/UI Feature](https://github.com/Pamf1973/ux-linkedin-redesign)** – A targeted design improvement focused on user retention and flow. MatchPoint – A UX-driven redesign of the LinkedIn job search. Replaces dense lists with a high-velocity swipe interface, built with React 19 and FastAPI.
