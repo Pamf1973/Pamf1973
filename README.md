@@ -9,17 +9,17 @@ I am a **Strategic Project Manager** and **PMP-certified professional** with a c
 With over a decade of experience at **Accenture**, I have led global teams to achieve intelligent operations maturity, driving success rates as high as 80% in process improvement initiatives. My mission is to bridge the gap between **strategic business objectives** and **AI-powered automation**.
 
 ### 🛠 Professional Expertise
-**Operational Excellence:** Lean process improvement and Workforce Management (WFM) tools that save significant manual labor hours per employee[cite: 9, 31, 37].
-**Business Transformation:** Managed $50M+ strategic project portfolios and led large-scale mergers for companies like Johnson & Johnson and Kraft-Heinz[cite: 40, 41, 48, 49].
-**AI-Native Development:** Building and deploying MVPs that integrate LLMs (Claude, Groq) to maximize project impact and business solutions[cite: 9, 17, 19].
+**Operational Excellence:** Lean process improvement and Workforce Management (WFM) tools that save significant manual labor hours per employee.
+**Business Transformation:** Managed $50M+ strategic project portfolios and led large-scale mergers for companies like Johnson & Johnson and Kraft-Heinz.
+**AI-Native Development:** Building and deploying MVPs that integrate LLMs (Claude, Groq) to maximize project impact and business solutions.
 
 ---
 
 ## 💻 Featured Technical Portfolio
 
 ### 🛡️ [RateShield](https://github.com/Pamf1973/pro-rateshield)
-**The Problem:** Utility bills (Con Edison) are notoriously difficult for customers to decipher[cite: 4, 6].
-**The Solution:** A web app that enables customers to analyze electricity bills by separating controllable usage from fixed taxes and delivery fees[cite: 4, 19, 20].
+**The Problem:** Utility bills (Con Edison) are notoriously difficult for customers to decipher.
+**The Solution:** A web app that enables customers to analyze electricity bills by separating controllable usage from fixed taxes and delivery fees.
 * **Focus:** Data Transparency & Financial Literacy.
 
 ### 🎬 [Pocket Productions](https://github.com/Pamf1973/app-Pocket_Productions)
