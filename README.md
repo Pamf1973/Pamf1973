@@ -27,7 +27,7 @@ With over a decade of experience at **Accenture**, I have led global teams to ac
 **The Solution:** A mobile-first powerhouse that auto-calculates SAG-AFTRA rates and fringes using deterministic logic paired with AI creative tools.
 * **Focus:** Process Improvement & Compliance Automation.
 
-### 🥗 [FreshDirect "Transparency"](https://github.com/Pamf1973/case-Freshdirect-transparency)
+### 🥗 [FreshDirect "Transparency"](https://github.com/Pamf1973/pro-freshdirect)
 **The Problem:** Inventory volatility in e-commerce leading to "silent failures" and customer distrust.
 **The Solution:** A fulfillment engine with pessimistic stock validation and a "Split-Manifest" receipt system.
 * **Focus:** Operational Excellence & Customer Trust.
