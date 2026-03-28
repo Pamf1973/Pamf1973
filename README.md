@@ -1,7 +1,7 @@
 # Hi, I'm Pedro A. Martins, PMP 👋
 ### Operations Project Manager | AI-Native Developer | Business Transformation Leader
 
-I am a **Strategic Project Manager** and **PMP-certified professional** with a career dedicated to driving business excellence and operational transformation. Currently, I am a Fellow in the **Pursuit AI-Native Program**, an elite 7-month intensive backed by Google and Salesforce, where I build high-impact, full-stack AI solutions.
+I am a **Strategic Project Manager** and **PMP-certified professional** with a career dedicated to driving business excellence and operational transformation. Currently, I am a Fellow in the **Pursuit AI-Native Program**, an elite 1 year intensive backed by Google, Blackstone, Citibank among others, where I build high-impact, full-stack AI solutions.
 
 ---
 
