@@ -17,10 +17,11 @@ With over a decade of experience at **Accenture**, I have led global teams to ac
 
 ## 💻 Featured Technical Portfolio
 
-🏢 [CRE Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
+### 🏢 [CRE Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
 **The Problem:** Manual consolidation of volatile property and macro data streams (NYC ACRIS, HPD, FRED) leading to delayed or inaccurate acquisitions underwriting. 
 **The Solution:** A fully autonomous acquisitions AI agent leveraging Claude 3.5 Sonnet to continuously verify NYC signals against a deterministic Python DCF underwriting model.
 * **Focus:** Autonomous Agent Orchestration & Real Estate Underwriting Automation.
+
 
 ### 🛡️ [RateShield](https://github.com/Pamf1973/pro-rateshield)
 **The Problem:** Utility bills (Con Edison) are notoriously difficult for customers to decipher.
