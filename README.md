@@ -18,30 +18,19 @@ With over a decade of experience at **Accenture**, I have led global teams to ac
 ## 💻 Featured Technical Portfolio
 
 ### 🏢 [CRE Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
+
+
+
+### 🏢 [CRE Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
 **The Problem:** Manual consolidation of volatile property and macro data streams (NYC ACRIS, HPD, FRED) leading to delayed or inaccurate acquisitions underwriting. 
 **The Solution:** A fully autonomous acquisitions AI agent leveraging Claude 3.5 Sonnet to continuously verify NYC signals against a deterministic Python DCF underwriting model.
 * **Focus:** Autonomous Agent Orchestration & Real Estate Underwriting Automation.
 
 
-### 🛡️ [RateShield](https://github.com/Pamf1973/pro-rateshield)
-**The Problem:** Utility bills (Con Edison) are notoriously difficult for customers to decipher.
-**The Solution:** A web app that enables customers to analyze electricity bills by separating controllable usage from fixed taxes and delivery fees.
-* **Focus:** Data Transparency & Financial Literacy.
-
 ### 🎬 [Pocket Productions](https://github.com/Pamf1973/app-Pocket_Productions)
 **The Problem:** Fragmented logistics and union compliance risks in independent film production.
 **The Solution:** A mobile-first powerhouse that auto-calculates SAG-AFTRA rates and fringes using deterministic logic paired with AI creative tools.
 * **Focus:** Process Improvement & Compliance Automation.
-
-### 🥗 [FreshDirect "Transparency"](https://github.com/Pamf1973/pro-freshdirect)
-**The Problem:** Inventory volatility in e-commerce leading to "silent failures" and customer distrust.
-**The Solution:** A fulfillment engine with pessimistic stock validation and a "Split-Manifest" receipt system.
-* **Focus:** Operational Excellence & Customer Trust.
-
-### 🎯 [MatchPoint (LinkedIn Redesign)](https://github.com/Pamf1973/ux-linkedin-redesign)
-**The Problem:** High-friction, slow job discovery interfaces.
-**The Solution:** A high-velocity, swipe-based discovery tool using Neo-Brutalist design principles to evaluate 50+ jobs in minutes.
-* **Focus:** Product Discovery Efficiency.
 
 ---
 
