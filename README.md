@@ -19,7 +19,7 @@ With meaningful experience at **Accenture**, I have led global teams to achieve 
 
 ### 🏢 [ConEd-Attrition-Prediction-Model](https://github.com/Pamf1973/ConEd-Attrition-Prediction-Model)
 **The Problem:** Fragmented, siloed public datasets (LL84, DOB, ACRIS, PLUTO, NOAA) made it difficult to identify which Con Edison steam customers were at risk of attrition — leaving revenue-impacting churn undetected until it was too late to intervene.
-**The Solution:** A modular, extensible attrition intelligence platform that reconciles five disparate NYC public datasets into a unified pipeline, feeding a Gradient Boosting Classifier (AUC 0.672) and K-Means behavioral clustering — surfaced through a React dashboard with live risk rankings, proactive AI alerting, and a 3D map — projecting 23% revenue recovery.
+**The Solution:** A modular, extensible attrition intelligence MACHINE LEARNING platform that reconciles five disparate NYC public datasets into a unified pipeline, feeding a Gradient Boosting Classifier (AUC 0.672) and K-Means behavioral clustering — surfaced through a React dashboard with live risk rankings, proactive AI alerting, and a 3D map — projecting 23% revenue recovery.
 * **Focus:** Predictive Risk Modeling & Utility Revenue Intelligence.
 
 
