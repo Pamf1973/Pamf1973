@@ -17,13 +17,13 @@ With meaningful experience at **Accenture**, I have led global teams to achieve 
 
 ## 💻 Featured Technical Portfolio
 
-### 🏢 [ConEd-Attrition-Prediction-Model](https://github.com/Pamf1973/ConEd-Attrition-Prediction-Model)
+### 🏢 [Con Edison Attrition-Prediction-Model](https://github.com/Pamf1973/ConEd-Attrition-Prediction-Model)
 **The Problem:** Fragmented, siloed public datasets (LL84, DOB, ACRIS, PLUTO, NOAA) made it difficult to identify which Con Edison steam customers were at risk of attrition — leaving revenue-impacting churn undetected until it was too late to intervene.
 **The Solution:** A modular, extensible attrition intelligence **MACHINE LEARNING** platform that reconciles five disparate NYC public datasets into a unified pipeline, feeding a Gradient Boosting Classifier (AUC 0.672) and K-Means behavioral clustering — surfaced through a React dashboard with live risk rankings, proactive AI alerting, and a 3D map — projecting 23% revenue recovery.
 * **Focus:** Predictive Risk Modeling & Utility Revenue Intelligence.
 
 
-### 🏢 [CRE Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
+### 🏢 [Commercial Real Estate Deal Pulse](https://github.com/Pamf1973/Real-Estate-Data-Analyst-Deal-Pulse-Agent)
 **The Problem:** Manual consolidation of volatile property and macro data streams (NYC ACRIS, HPD, FRED) leading to delayed or inaccurate acquisitions underwriting. 
 **The Solution:** A fully autonomous acquisitions AI agent leveraging Claude 3.5 Sonnet to continuously verify NYC signals against a deterministic Python DCF underwriting model.
 * **Focus:** Autonomous Agent Orchestration & Real Estate Underwriting Automation.
