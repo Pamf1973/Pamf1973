@@ -6,7 +6,7 @@ I am a **Strategic Project Manager** and **PMP-certified professional** with a c
 ---
 
 ## 🚀 The Intersection of Operations & AI
-With over a decade of experience at **Accenture**, I have led global teams to achieve intelligent operations maturity, driving success rates as high as 80% in process improvement initiatives. My mission is to bridge the gap between **strategic business objectives** and **AI-powered automation**.
+With meaningful experience at **Accenture**, I have led global teams to achieve intelligent operations maturity, driving success rates as high as 80% in process improvement initiatives. My mission is to bridge the gap between **strategic business objectives** and **AI-powered automation**.
 
 ### 🛠 Professional Expertise
 **Operational Excellence:** Lean process improvement and Workforce Management (WFM) tools that save significant manual labor hours per employee.
@@ -37,7 +37,7 @@ With over a decade of experience at **Accenture**, I have led global teams to ac
 ---
 
 ## 🛠 My Toolkit
-**AI & Data:** Python, Tableau, Power BI, Claude API, Groq (Llama 3.3).
+**AI & Data:** IDE's: Cursor, Antigravity, VS Code, Claude Code. LLM's: Claude, Gemini, ChatGPT, Perplexity, Grok. Language: Python, SQL, JavaScript, HTML. Business Intelligence: Tableau, Power BI. Claude API, Groq (Llama 3.3).
 **Management:** PMP, SAP, Salesforce, ServiceNow, Jira, Confluence, Microsoft Suite.
 **Languages:** Fluent in English and Portuguese.
 
